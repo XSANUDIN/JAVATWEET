@@ -6,10 +6,10 @@ import java.util.*;
 
 public class HttpConn {
 
-    public static String CONSUMER_KEY = "g8d6XFVtAFl4Mee2RssJXBBvI";
-    public static String CONSUMER_SECRET = "8ISTkHkriGys4b74iyz4pjXvon22RCoSjzPh01oyVSDaK7zFVS";
-    public static String ACCESS_TOKEN = "1802014368399548416-JQBx90Mw1uPVzd9NvxHaqvSHak9xx1";
-    public static String ACCESS_TOKEN_SECRET = "qkILtDZTrSPGVj1MMG4evoBnssSDCJ8VDNP1MBmONbHrn";
+    public static String CONSUMER_KEY  = "CONSUMER_KEY";
+    public static String CONSUMER_SECRET  = "CONSUMER_SECRET";
+    public static String ACCESS_TOKEN  = "ACCESS_TOKEN";
+    public static String ACCESS_TOKEN_SECRET  = "ACCESS_TOKEN_SECRET";
 
     public static void logout() {
         // Clear the tokens locally
